@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleBuildVariantDemo</string>
+    <string name="hello_world">Free version</string>
+
+</resources>
