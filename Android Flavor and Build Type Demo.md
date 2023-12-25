@@ -1,4 +1,5 @@
 Android Flavor and Build Type Demo
+
 Overview
 This repository serves as a demonstration of how to use Android product flavors and build types in a Gradle-based Android project. The project showcases a simple Android app with two variants: a "Free" version and a "Paid" version. The key difference between the two versions is the appearance of a TextView with a unique color scheme for each.
 
